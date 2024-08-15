@@ -1,0 +1,16 @@
+order,color
+Nuclear,#820000
+Coal,#000000
+Gas-CC,#5E1688
+Gas-CC CCS,#9467BD
+Gas-CT,#C2A1DB
+Oil/Gas,#3D3376
+Fuel Cell,#87A21D
+H2-CT,#66C238
+Onshore Wind,#00B6EF
+Offshore Wind,#106BA7
+Solar,#FFC903
+SMR,#D49E2E
+Electrolyzer,#896F2D
+Storage,#FF4A88
+Other RE,#A1A7B5
