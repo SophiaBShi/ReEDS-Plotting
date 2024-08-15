@@ -1,0 +1,14 @@
+,Default,ERCOT_BAU,ERCOT_BAU_fc,ERCOT_decarb,ERCOT_decarb_fc,National_BAU,National_BAU_fc,National_decarb,National_decarb_fc,Western_decarb_fc,Eastern_decarb_fc
+ignore,1,1,1,1,1,1,1,1,0,1,1
+endyear,2032,2050,2050,2050,2050,2050,2050,2050,2050,2050,2050
+GSw_Region,usa,ercot,ercot,ercot,ercot,usa,usa,usa,usa,western,eastern
+GSw_GasCurve,1,2,2,2,2,1,1,1,1,2,2
+GSw_AnnualCap,,,,1,1,,,1,1,1,1
+GSw_AnnualCapScen,,,,start2024_80pct2030_100pct2035,start2024_80pct2030_100pct2035,,,start2024_80pct2030_100pct2035,start2024_80pct2030_100pct2035,start2024_80pct2030_100pct2035,start2024_80pct2030_100pct2035
+GSw_AnnualCapCO2e,,,,1,1,,,1,1,1,1
+GSw_EFS1_AllYearLoad,,,,EER_100by2050,EER_100by2050,,,EER_100by2050,EER_100by2050,EER_100by2050,EER_100by2050
+GSw_H2,0,0,2,2,2,0,2,2,2,2,2
+GSw_BECCS,,,,1,1,,,1,1,1,1
+GSw_NG_CRF_penalty,,,,ramp_2023_2035,ramp_2023_2035,,,ramp_2023_2035,ramp_2023_2035,ramp_2023_2035,ramp_2023_2035
+GSw_FuelCell,,,1,,1,,1,,1,1,1
+GSw_gopt,,,,,,,,,,,

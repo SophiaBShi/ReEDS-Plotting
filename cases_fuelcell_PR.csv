@@ -1,0 +1,14 @@
+,Default Value,noFC_BAU,FC_BAU,FC_decarb
+ignore,1,1,0,1
+endyear,2050,,,
+GSw_Region,usa,,,
+GSw_GasCurve,,1,1,2
+GSw_H2,,,,2
+GSw_FuelCell,0,,1,1
+GSw_AnnualCap,,,,1
+GSw_AnnualCapCO2e,,,,1
+GSw_AnnualCapScen,,,,start2024_80pct2030_100pct2035
+GSw_BECCS,,,,1
+GSw_NG_CRF_penalty,,,,ramp_2023_2035
+GSw_EFS1_AllYearLoad,,,,EER_100by2050
+GSw_gopt,,,,2
